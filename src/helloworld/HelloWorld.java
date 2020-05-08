@@ -10,6 +10,7 @@ public class HelloWorld {
 		int number2 = ten();
 		
 		System.out.println(number2 + ":" + (number + 1));
+		System.out.println("새로 수정된 거");
 		
 	}
 	
